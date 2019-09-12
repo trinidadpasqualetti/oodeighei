@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iebeicuoph.poukladane.com/sitemap.xml
